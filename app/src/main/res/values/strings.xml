@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SOFTBOARD</string>
+    <string name="ime_name">SOFTBOARD Keyboard</string>
+    <string name="tagline">Type Smooth. Type Smart.</string>
+    <string name="subtype_en_us">English (US)</string>
+    <string name="subtype_si_lk">Sinhala (Wijesekara)</string>
+    <string name="subtype_si_phonetic">Sinhala (Phonetic)</string>
+</resources>

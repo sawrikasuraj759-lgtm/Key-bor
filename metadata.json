@@ -1,0 +1,6 @@
+{
+  "name": "SOFTBOARD",
+  "description": "Smart Android Keyboard — Type Smooth. Type Smart. Features QWERTY & Sinhala layouts, neon cyber themes, emoji, clipboard, and full customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
